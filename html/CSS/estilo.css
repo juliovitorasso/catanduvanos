@@ -1,0 +1,12 @@
+@charset "utf-8";
+body{
+	margin:0;
+}
+#topo{
+	width: auto;
+	height: 560px;
+	background-image: url('../imagens/topo.png');
+	background-size: 100%;
+	}
+
+p{color:#ccc;}
