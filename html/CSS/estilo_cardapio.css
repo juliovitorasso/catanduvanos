@@ -1,0 +1,21 @@
+ body{
+     	background-image: url('../imagens/fundo.png');
+     	margin-left: 20%;
+     	margin-right: 20%;
+     	border:1px solid gray;
+     	padding: 10px 10px 10px 10px;
+     	font-family: sans-serif;
+    }
+        h1{
+            color: #F8F8FF;
+             text-shadow: 2px 2px black;
+        }
+        h2{
+            color: #F8F8FF;
+            text-shadow: 2px 2px black;
+        }
+        h3{
+            color: #F8F8FF;
+            text-shadow: 2px 2px black;
+        }
+
