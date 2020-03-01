@@ -52,6 +52,13 @@ p{
 }
 
 /*configuração do formulario de contato*/
+h1{
+  text-align: center;
+  font-family: Tahoma;
+  color: #333;
+}
+
+
 .container {
   width: 50%;
   margin: 0 auto;
@@ -115,7 +122,7 @@ p{
   transition: 1s;
 }
 
-.form-contact-button:hover {
+.form-contato-botao:hover {
   opacity: 1;
 }
 
